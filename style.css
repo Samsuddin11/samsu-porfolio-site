@@ -267,7 +267,7 @@ body {
 .btn-primary {
     background: var(--accent-green);
     color: white;
-    box-shadow: 0 4px 15px rgba(18, 185, 130, 0.3);
+    box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
 }
 
 .btn-primary:hover {
@@ -299,7 +299,7 @@ body {
     background: var(--secondary-bg);
     border-radius: 0.75rem;
     overflow: hidden;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
     border: 1px solid var(--border-color);
     width: 100%;
     max-width: 500px;
@@ -326,11 +326,11 @@ body {
 }
 
 .btn-close {
-    background: #f54949;
+    background: #ef4444;
 }
 
 .btn-minimize {
-    background: #f8a007;
+    background: #f59e0b;
 }
 
 .btn-maximize {
@@ -352,11 +352,11 @@ body {
 }
 
 .code-comment {
-    color: #6cad11;
+    color: #65a30d;
 }
 
 .code-keyword {
-    color: #4084f1;
+    color: #3b82f6;
 }
 
 .code-string {
@@ -370,7 +370,6 @@ body {
 .code-number {
     color: #8b5cf6;
 }
-
 /* Section Styles */
 .section-title {
     font-size: clamp(1.8rem, 5vw, 2.5rem);
@@ -1576,5 +1575,6 @@ body {
         max-width: 1800px;
     }
 }
+
 
 
