@@ -1161,7 +1161,7 @@ body {
     
     .hero {
         padding: var(--mobile-nav-height) 0 2rem;
-        min-height: 90vh;
+        min-height: 85vh;
     }
     
     .hero-content {
@@ -1239,6 +1239,7 @@ body {
         flex-direction: column;
         align-items: center;
         gap: 0.75rem;
+        justify-content: center;
     }
     
     .btn {
@@ -1287,7 +1288,7 @@ body {
     
     .hero {
         padding: 3.5rem 0 1.5rem;
-        min-height: 85vh;
+        min-height: 80vh;
     }
     
     .hero-title {
@@ -1304,6 +1305,7 @@ body {
     
     .hero-buttons {
         gap: 0.5rem;
+        justify-content: center;
     }
     
     .btn {
@@ -1575,6 +1577,7 @@ body {
         max-width: 1800px;
     }
 }
+
 
 
 
